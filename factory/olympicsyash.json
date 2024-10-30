@@ -1,0 +1,9 @@
+{
+	"name": "olympicsyash",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8a6b7d7e-970c-4fef-9cc8-1649302f4cd7",
+		"tenantId": "cd319671-52e7-4a68-afa9-fcf8f89f09ea"
+	}
+}
